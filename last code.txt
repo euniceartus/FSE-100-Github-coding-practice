@@ -77,3 +77,4 @@ function draw() {
 }
 
 //This is Eunice Artus saying hi
+text("hi");
