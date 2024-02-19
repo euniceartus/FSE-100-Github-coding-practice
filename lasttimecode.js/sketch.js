@@ -73,5 +73,6 @@ function draw() {
   fill("black");
   textSize(20);
   text("Fatima Aghayeva", 240, 380);
+  text("Elizabeth Macias",240, 50);
   
 }
